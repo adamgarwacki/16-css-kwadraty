@@ -1,0 +1,16 @@
+#glowny {
+    margin: 0px;
+    padding: 16px;
+    background-color: rgb(135, 135, 135);
+}
+
+h1 {
+    color: white;
+}
+
+.zolty {
+    background-color: rgb(235, 161, 52);
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
